@@ -55,7 +55,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.example.MainApp</mainClass>
+              <mainClass>com.example.CalcApp</mainClass>
             </manifest>
           </archive>
         </configuration>
