@@ -4,7 +4,7 @@ package Java.Bridge;
  * Hello world!
  *
  */
-public class App 
+public class CalcApp 
 {
     public static void main( String[] args )
     {
